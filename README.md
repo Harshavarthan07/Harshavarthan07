@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshavarthan07
+- 👋 Hi, I’m Harsha varthan S R
 - 👀 I’m interested in Full stack Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Html, Css and Javascript
