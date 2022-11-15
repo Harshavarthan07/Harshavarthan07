@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsha varthan S R
 - 👀 I’m interested in Full stack Development
-- 🌱 I’m currently learning EJS
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Html, CSS and Javascript
 - 📫 How to reach me Linkedin:  https://www.linkedin.com/in/harsha-varthan-ramdoss-a5a953182/
 
